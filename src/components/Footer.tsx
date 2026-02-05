@@ -64,13 +64,13 @@
                <li className="flex items-start gap-3">
                  <MapPin size={18} className="text-rose mt-0.5 shrink-0" />
                  <span className="text-sm text-warm-white/70">
-                   Rua das Flores, 123<br />Centro, São Paulo - SP
+                   Centro<br />Santo Antonio do Descoberto - Go
                  </span>
                </li>
                <li className="flex items-center gap-3">
                  <Phone size={18} className="text-rose shrink-0" />
-                 <a href="tel:+5511999999999" className="text-sm text-warm-white/70 hover:text-rose transition-colors">
-                   (11) 99999-9999
+                 <a href="tel:+5561994535423" className="text-sm text-warm-white/70 hover:text-rose transition-colors">
+                   (61) 99453-5423
                  </a>
                </li>
                <li className="flex items-center gap-3">
