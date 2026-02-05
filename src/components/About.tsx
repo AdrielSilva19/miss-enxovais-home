@@ -45,7 +45,7 @@
              <p className="text-muted-foreground mb-6 leading-relaxed">
                A Miss Enxovais nasceu do sonho de oferecer produtos de cama, mesa e banho 
                que unem qualidade excepcional, design sofisticado e preços acessíveis. 
-               Há mais de 10 anos, selecionamos cuidadosamente cada peça para transformar 
+               Selecionamos cuidadosamente cada peça para transformar 
                sua casa em um refúgio de conforto e bem-estar.
              </p>
              <p className="text-muted-foreground mb-8 leading-relaxed">
