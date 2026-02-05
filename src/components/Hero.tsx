@@ -19,7 +19,7 @@
        <div className="container mx-auto px-4 relative z-10">
          <div className="max-w-2xl">
            <span className="inline-block text-sm font-medium tracking-widest uppercase text-primary mb-4 animate-fade-up">
-             Nova Coleção 2025
+             Nova Coleção 2026
            </span>
            <h1 
              className="font-serif text-4xl md:text-6xl lg:text-7xl font-medium leading-tight mb-6 animate-fade-up"
