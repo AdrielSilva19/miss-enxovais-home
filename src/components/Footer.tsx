@@ -11,7 +11,7 @@
                Miss <span className="text-rose">Enxovais</span>
              </h2>
              <p className="text-warm-white/70 text-sm leading-relaxed mb-6">
-               Transformando lares em refúgios de conforto desde 2015. Qualidade, elegância e carinho em cada produto.
+               Transformando lares em refúgios de conforto desde 2026. Qualidade, elegância e carinho em cada produto.
              </p>
              <div className="flex gap-4">
                <a
